@@ -1,0 +1,12 @@
+dist/
+coverage/
+node_modules/
+.cache/
+.next
+.now
+.circleci
+package*.json
+yarn-lock.json
+CHANGELOG.md
+*.snap
+.netlify

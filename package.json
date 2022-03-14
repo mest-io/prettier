@@ -1,0 +1,19 @@
+{
+  "name": "@mest-fe/prettier",
+  "version": "0.0.1",
+  "description": "This is prettier config for all MEST projects.",
+  "main": "prettier.json",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mest-io/prettier.git"
+  },
+  "author": "@mest-io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mest-io/prettier/issues"
+  },
+  "homepage": "https://github.com/mest-io/prettier#readme"
+}
